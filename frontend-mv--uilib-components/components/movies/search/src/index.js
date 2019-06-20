@@ -1,21 +1,21 @@
 import React, {Component} from 'react'
 // import PropTypes from 'prop-types'
 
-class MovieSearch extends Component {
+class MoviesSearch extends Component {
   render() {
     return (
-      <div className="sui-MovieSearch">
-        <h1>MovieSearch</h1>
+      <div className="mv-MoviesSearch">
+        <AtomInput />
       </div>
     )
   }
 }
 
-MovieSearch.displayName = 'MovieSearch'
+MoviesSearch.displayName = 'MoviesSearch'
 
 // Remove these comments if you need
-// MovieSearch.contextTypes = {i18n: PropTypes.object}
-// MovieSearch.propTypes = {}
-// MovieSearch.defaultProps = {}
+// MoviesSearch.contextTypes = {i18n: PropTypes.object}
+// MoviesSearch.propTypes = {}
+// MoviesSearch.defaultProps = {}
 
-export default MovieSearch
+export default MoviesSearch
