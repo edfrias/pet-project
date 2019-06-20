@@ -1,5 +1,5 @@
 {
-  "name": "mv-movies-search",
+  "name": "sui-movies-detail",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -9,8 +9,7 @@
     "build:styles": "../../../node_modules/.bin/cpx './src/**/*.scss' ./lib"
   },
   "dependencies": {
-    "@s-ui/component-dependencies": "1",
-    "@s-ui/react-context": "^1.4.0"
+    "@s-ui/component-dependencies": "1"
   },
   "keywords": [],
   "author": "",
