@@ -1,6 +1,6 @@
 {
-  "name": "sui-movies-detail",
-  "version": "1.0.0",
+  "name": "cvz-react-movies-detail",
+  "version": "1.2.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
